@@ -1,0 +1,15 @@
+body{
+    font-size:medium;
+}
+.contenedor{
+    height: 50%;
+    background-color:skyblue;
+    margin: 1% 1%;
+  }
+
+  
+ .frow{ clear:both;
+  padding:10px;
+}
+
+
